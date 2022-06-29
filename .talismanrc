@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/main/resources/data-h2.sql
+  checksum: 0c5a04d8de6442b43efa2fa6dbef2c4eceb51fa8d4436d51f344a1dde4efdaa0
+version: ""

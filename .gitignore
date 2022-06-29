@@ -39,3 +39,4 @@ out/
 .idea/
 out/
 build/
+.talismanrc
