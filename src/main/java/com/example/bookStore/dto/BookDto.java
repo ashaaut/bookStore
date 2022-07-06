@@ -5,18 +5,18 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.UUID;
+
 @Data // to use getters and setters
 @Builder //builder design pattern
 @AllArgsConstructor // for all args constructor
 @NoArgsConstructor // constructor with no args
 public class BookDto {
-    private String  title;
+    private UUID id;
 
-    public String getTitle() {
-        return title;
-    }
+    private  String title;
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
+    private  String description;
+
+    private  int releaseYear;
 }

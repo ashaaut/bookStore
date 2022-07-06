@@ -1,4 +1,8 @@
 fileignoreconfig:
 - filename: src/main/resources/data-h2.sql
+  checksum: 5979e6b8b59c96a3ca93d7fe16d434d5f21c83fbac45f12b6228366061ce1f83
+- filename: src/test/resources/InsertInitialBookRecordFrTest.sql
+  checksum: cbd3bacb7829cc6079bec2f7c57edd23bedf5cb57059c0c0489d39f90c40dbdf
+- filename: src/main/resources/data-h2.sql
   checksum: 0c5a04d8de6442b43efa2fa6dbef2c4eceb51fa8d4436d51f344a1dde4efdaa0
 version: ""
