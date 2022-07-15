@@ -1,1 +1,1 @@
-insert into book(id,title,description,releaseyear) values('0111','Do epic shit','ghy ghye gtye ge',2018)
+insert into book(id,title,description,releaseyear) values('81CBB42C-73A0-9660-6C7D-2FE94627F3A3','changing the sky','ghy ghye gtye ge','99')
